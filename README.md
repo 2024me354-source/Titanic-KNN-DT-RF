@@ -8,9 +8,8 @@ The goal is to apply **data preprocessing, exploratory data analysis (EDA), feat
 
 ## 📊 Dataset
 - **Source**: [Kaggle Titanic Dataset](https://www.kaggle.com/c/titanic/data)  
-- **Files used**:
-  - `train.csv` → Training dataset  
-  - `test.csv` → Testing dataset  
+- **Files used**:  
+  - `tested.csv` → Testing dataset  
 
 **Target variable**: `Survived`  
 - `0` → Passenger did not survive  
